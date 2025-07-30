@@ -1,0 +1,2 @@
+timestamp,MedInc,HouseAge,AveRooms,AveBedrms,Population,AveOccup,Latitude,Longitude,predicted_price
+2025-07-30T16:19:49.975212+00:00,6.1,20.0,5.4,1.0,350.0,2.8,36.78,-119.42,2.37
